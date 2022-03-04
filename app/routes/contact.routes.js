@@ -19,3 +19,4 @@ module.exports = (app) => {
 
     app.use("/api/contacts", router);
 };
+
